@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 First of all :
 
-###`npm install`
+### `npm install`
 
 ### `npm start`
 
